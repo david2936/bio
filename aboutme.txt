@@ -2,4 +2,4 @@ i like to swim
 i like to play tennis
 i like programming
 
-this is the comment but in the brow
+this is the comment but in the browser
